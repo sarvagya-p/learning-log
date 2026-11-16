@@ -10,6 +10,8 @@ My Python learning journey, following CS50P.
 - Problem Set 2 completed (solutions kept private)
 - Lecture 3: exceptions (try/except/else, raise, handling bad input)
 - Problem Set 3 completed (solutions kept private)
+- Lecture 4: libraries (random, statistics, sys.argv, pip packages, APIs)
+- Problem Set 4 completed (solutions kept private)
 
 ## Projects
 - [Word Frequency Counter](https://github.com/sarvagya-p/word-frequency-counter): extracts text from a PDF and shows the most frequently used words
