@@ -12,6 +12,7 @@ My Python learning journey, following CS50P.
 - Problem Set 3 completed (solutions kept private)
 - Lecture 4: libraries (random, statistics, sys.argv, pip packages, APIs)
 - Problem Set 4 completed (solutions kept private)
+- Lecture 5: unit tests (assert, pytest, testing in folders)
 
 ## Projects
 - [Word Frequency Counter](https://github.com/sarvagya-p/word-frequency-counter): extracts text from a PDF and shows the most frequently used words
