@@ -18,6 +18,8 @@ My Python learning journey, following CS50P.
 - Problem Set 6 completed (solutions kept private)
 - Lecture 7: regular expressions (re.search, re.fullmatch, re.sub, groups, word boundaries)
 - Problem Set 7 completed (solutions kept private)
+- Lecture 8: object-oriented programming (classes, methods, properties, operator overloading)
+- Problem Set 8 completed (solutions kept private)
 
 ## Projects
 - [Word Frequency Counter](https://github.com/sarvagya-p/word-frequency-counter): extracts text from a PDF and shows the most frequently used words
